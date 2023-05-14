@@ -1,0 +1,36 @@
+
+
+.nav-items{
+    list-style-type: none;
+    margin: 10px;
+    padding: 20px;
+    overflow: hidden;
+    display: flex;
+}
+.button{
+    color: tomato;
+}
+
+.consectetur{
+    padding: 100px;    
+}
+
+.loarn-btn{
+    background-color: darkorange;
+    margin: 20px;
+}
+.nav-items li{
+    margin-right: 20px;
+    padding-right: 60px;
+}
+.hlre-btn{
+    background-color: hotpink;
+}
+.consuitent{
+    background-color: khaki;
+}
+.content{
+    
+    padding: 100px;
+}
+
